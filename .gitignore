@@ -1,7 +1,6 @@
 # Ignore node_modules directly
 node_modules/
 .env
-package.json
-package-lock.json
+
 
 # other entries...
